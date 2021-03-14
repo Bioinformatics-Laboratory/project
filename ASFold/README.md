@@ -23,8 +23,6 @@ The five benchmark datasets including DD, EDD, TG, ASTRAL186 and LE can be obtai
 #### Step 2: Feature extraction.
 •	pssm.py is used to generate a 40-dimensional PSSM feature matrix.
 
-•	ENAC.py is the implementation of ENAC.
-
 •	hmm.py is used to generate a 20-dimensional HMM feature matrix.
 
 •	SXG.py is used to generate six different groups of 400-dimensional SXG_HMM feature matrices.
